@@ -1,20 +1,14 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+🎭 IMPOSTORZ
+Impostorz is a social deduction party game. One player is the "Impostor" and doesn't know the secret word. Everyone else (the "Crewmates") knows the word and must find the faker through clever questions!
 
-# Run and deploy your AI Studio app
+✨ Features
+AI-Generated Topics: Uses Google Gemini for endless categories.
 
-This contains everything you need to run your app locally.
+10 Languages: Play in English, German, Spanish, and more.
 
-View your app in AI Studio: https://ai.studio/apps/drive/1PLw-g88UYrh9UV41zAMI0dp0cHZ2DBFS
+Cross-Platform: Built with React and Capacitor for Android.
 
-## Run Locally
+🛡️ Security
+No Secrets: API keys are managed via .env files and are not in the code.
 
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+Clean History: The repository has been audited to remove sensitive build files.
