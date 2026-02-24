@@ -1,0 +1,6 @@
+{
+  "appId": "com.yourcompany.impostorz",
+  "appName": "Impostorz",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}

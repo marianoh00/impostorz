@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Transparent background; crown/badge foreground in neon palette -->
+    <path
+        android:fillColor="#22D3EE"
+        android:pathData="M12,68 L22,36 L36,56 L54,18 L72,56 L86,36 L96,68 Z" />
+
+    <path
+        android:fillColor="#0EA5FF"
+        android:pathData="M12,68 L96,68 L96,86 L12,86 Z" />
+
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:alpha="0.04"
+        android:pathData="M12,68 L96,68 L96,86 L12,86 Z" />
+
+    <path android:fillColor="#7CE7FF" android:pathData="M60,40 A6,6 0 1,0 48,40 A6,6 0 1,0 60,40 Z" />
+    <path android:fillColor="#7CE7FF" android:pathData="M35,50 A5,5 0 1,0 25,50 A5,5 0 1,0 35,50 Z" />
+    <path android:fillColor="#7CE7FF" android:pathData="M83,50 A5,5 0 1,0 73,50 A5,5 0 1,0 83,50 Z" />
+
+</vector>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Background layer: match the game's deep-slate background used in index.html (deep-slate) -->
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="#020617" />
+        </shape>
+    </item>
+
+    <!-- Foreground: use vector foreground so background shows through -->
+    <item android:drawable="@drawable/splash_foreground" android:gravity="center" />
+</layer-list>
